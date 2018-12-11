@@ -1,0 +1,15 @@
+development:
+  clients:
+    default:
+      database: exam
+      hosts:
+        - localhost:27017
+      options:
+
+production:
+  clients:
+    default:
+      database: exam
+      hosts:
+        - localhost:27017
+      options:

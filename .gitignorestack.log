@@ -1,0 +1,14 @@
+.env
+.idea/
+log/development.log
+log/production.log
+node_modules/
+tmp/cache/
+tmp/data/
+tmp/index.js
+tmp/pids/
+tmp/restart.txt
+tmp/sockets/
+tmp/tests/
+.git
+
