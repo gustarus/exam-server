@@ -1,0 +1,25 @@
+# ignore node modules
+/node_modules
+
+# ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# ignore all local settings
+/config/settings.local.yml
+/config/settings/*.local.yml
+/config/environments/*.local.yml
+
+# ignore shared contents
+/shared/pids/*
+/shared/sockets/*
+!/shared/pids/.keep
+!/shared/sockets/.keep
+
+# ignore idea pruducts
+/.idea/
+
+# gnore env variables
+/.env
