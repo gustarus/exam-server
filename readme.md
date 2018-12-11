@@ -2,10 +2,10 @@
 
 #### 1. Clone the repo.
 ```bash
-mkdir exam
-cd exam
+mkdir exam-server
+cd exam-server
 git clone https://github.com/gustarus/exam-server.git
-cd server
+cd exam-server
 ```
 
 #### 2. Launch mongo database (via brew).
